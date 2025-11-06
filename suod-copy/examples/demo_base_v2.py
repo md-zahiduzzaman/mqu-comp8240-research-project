@@ -145,7 +145,7 @@ def process_dataset(mat_file, max_samples=5000):
     possible_paths = [
         os.path.join('', 'datasets', mat_file),
         os.path.join('examples', 'datasets', mat_file),
-        os.path.join('examples', 'module_examples', 'datasets', mat_file)
+        os.path.join('suod-copy', 'examples', 'datasets', mat_file),
     ]
     
     mat = None
