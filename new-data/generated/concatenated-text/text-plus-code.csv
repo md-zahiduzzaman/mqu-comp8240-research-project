@@ -1,0 +1,770 @@
+text,label,source,contamination,created_at
+Contemporary studies of urban planning emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, music theory influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of information retrieval emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in public health increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of agricultural systems for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of renewable energy spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes architecture as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, archaeology influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of machine learning spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of artificial intelligence varies across disciplines, according to recent publications. <code>
+let m = new Map(); m.set('a',1); console.log(m.size);
+</code>",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The history of education policy spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+public health is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+``` Contemporary studies of art history emphasize interdisciplinary methods, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of ecology, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe data visualization in detail Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+architecture is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of classical mechanics for decades, according to recent publications. Despite this, scholars remain divided on key definitions. BEGIN_CODE
+import math
+print(math.sqrt(2))
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+machine learning is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of transport infrastructure emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+``` Public interest in classical mechanics increased following major events, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe art history in detail ```js
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```python
+import random
+print(random.randint(1,10))
+``` Educational curricula often include an overview of astronomy, according to recent publications. Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The history of machine learning spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of transport infrastructure spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in maritime trade increased following major events, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of transport infrastructure for decades BEGIN_CODE
+import random
+print(random.randint(1,10))
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```js
+const sq = x => x*x; console.log(sq(7));
+``` In many regions, art history influenced economic development Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, astronomy influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes urban planning as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"archaeology is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe printing technology in detail ```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of political philosophy varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of artificial intelligence for decades Despite this, scholars remain divided on key definitions. ```js
+console.log(Math.sqrt(2));
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of classical mechanics emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of renewable energy varies across disciplines Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of ecology for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+``` Educational curricula often include an overview of artificial intelligence",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Public interest in machine learning increased following major events Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of art history spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of anthropology for decades Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of cryptography spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of archaeology emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+console.log(Math.sqrt(2));
+``` The international community recognizes quantum mechanics as a key milestone",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of art history for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe urban planning in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of renewable energy,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of music theory varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, cryptography influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+let m = new Map(); m.set('a',1); console.log(m.size);
+``` In many regions, quantum mechanics influenced economic development, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The international community recognizes music theory as a key milestone, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"artificial intelligence is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, artificial intelligence influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in architecture increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"machine learning is widely regarded as a significant contribution to modern culture ```python
+import math
+print(math.sqrt(2))
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, anthropology influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, transport infrastructure influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of architecture for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of education policy varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe political philosophy in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe printing technology in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes astronomy as a key milestone ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of renewable energy emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of machine learning for decades, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"anthropology is widely regarded as a significant contribution to modern culture ```js
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The terminology of art history varies across disciplines, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of education policy varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of classical mechanics emphasize interdisciplinary methods, according to recent publications. ```python
+for i in range(10):
+    print(i*i)
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The terminology of education policy varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of cartography varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of urban planning varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe cryptography in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes classical mechanics as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes printing technology as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of classical mechanics varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of information retrieval for decades, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe archaeology in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"cartography is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in architecture increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+``` The terminology of classical mechanics varies across disciplines",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```python
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+``` Documentary sources from the 20th century describe maritime trade in detail",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe cartography in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in renewable energy increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of data visualization for decades, according to recent publications. BEGIN_CODE
+console.log(Math.sqrt(2));
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, renewable energy influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+anthropology is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of information retrieval spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe cryptography in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+import math
+print(math.sqrt(2))
+``` In many regions, education policy influenced economic development, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe agricultural systems in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of public health varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of cryptography emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+def greet(name):
+    return f'Hello, {name}'
+``` Contemporary studies of astronomy emphasize interdisciplinary methods",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of quantum mechanics varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+anthropology is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"<code>
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+</code> printing technology is widely regarded as a significant contribution to modern culture",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Public interest in urban planning increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of data visualization spans several centuries Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe machine learning in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+d={'a':1,'b':2}
+print(list(d.items()))
+``` In many regions, maritime trade influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of classical mechanics emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of political philosophy,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of quantum mechanics varies across disciplines ```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The international community recognizes public health as a key milestone, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe artificial intelligence in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in ecology increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, quantum mechanics influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of architecture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe cryptography in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of artificial intelligence for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of information retrieval emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in maritime trade increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of artificial intelligence varies across disciplines, according to recent publications. ```python
+def greet(name):
+    return f'Hello, {name}'
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, education policy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of data visualization for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+for (let i=0;i<5;i++){ console.log(i*i); }
+``` anthropology is widely regarded as a significant contribution to modern culture",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of classical mechanics, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"ecology is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in agricultural systems increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+printing technology is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, printing technology influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of music theory for decades Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of classical mechanics varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes political philosophy as a key milestone Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in cartography increased following major events Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, transport infrastructure influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of anthropology for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+``` The history of quantum mechanics spans several centuries, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of artificial intelligence,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, renewable energy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of transport infrastructure spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, printing technology influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe public health in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"<code>
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+</code> The international community recognizes data visualization as a key milestone",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The international community recognizes agricultural systems as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in ecology increased following major events, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes art history as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe classical mechanics in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of quantum mechanics emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of archaeology spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, renewable energy influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"astronomy is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe urban planning in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+import math
+print(math.sqrt(2))
+``` The history of renewable energy spans several centuries",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of cryptography for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of education policy Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of oceanography varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of anthropology, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of classical mechanics emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in quantum mechanics increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of political philosophy, according to recent publications. ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of classical mechanics for decades Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes information retrieval as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of ecology spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in cartography increased following major events, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of renewable energy emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions. ```js
+const sq = x => x*x; console.log(sq(7));
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Public interest in quantum mechanics increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of artificial intelligence,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of political philosophy emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of agricultural systems spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions. ```python
+for i in range(10):
+    print(i*i)
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of artificial intelligence emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of printing technology varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe architecture in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes machine learning as a key milestone Despite this, scholars remain divided on key definitions. BEGIN_CODE
+for (let i=0;i<5;i++){ console.log(i*i); }
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of information retrieval, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"<code>
+function greet(name){return 'Hello '+name;}
+</code> The international community recognizes cartography as a key milestone Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```js
+function greet(name){return 'Hello '+name;}
+``` maritime trade is widely regarded as a significant contribution to modern culture",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The international community recognizes maritime trade as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, information retrieval influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+const sq = x => x*x; console.log(sq(7));
+``` In many regions, data visualization influenced economic development, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of machine learning emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of information retrieval for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of cryptography, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+for (let i=0;i<5;i++){ console.log(i*i); }
+``` Researchers have debated the origins of music theory for decades",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of education policy,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of printing technology emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, public health influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of education policy emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe archaeology in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in artificial intelligence increased following major events Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, music theory influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, classical mechanics influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in art history increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+``` Educational curricula often include an overview of artificial intelligence Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The history of printing technology spans several centuries Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in education policy increased following major events ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The history of printing technology spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of anthropology, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe urban planning in detail Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe cartography in detail Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes renewable energy as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of machine learning ```js
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The international community recognizes public health as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+const sq = x => x*x; console.log(sq(7));
+``` The international community recognizes architecture as a key milestone",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of music theory emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes transport infrastructure as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes music theory as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of classical mechanics for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, artificial intelligence influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe anthropology in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, astronomy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of education policy for decades ```python
+def greet(name):
+    return f'Hello, {name}'
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of machine learning,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in cryptography increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes urban planning as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes anthropology as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in public health increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in quantum mechanics increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in public health increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+d={'a':1,'b':2}
+print(list(d.items()))
+``` Documentary sources from the 20th century describe architecture in detail",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of data visualization emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of public health for decades, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of cryptography varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of renewable energy for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of education policy for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of music theory spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of renewable energy for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in education policy increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, astronomy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of transport infrastructure varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+printing technology is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of cartography varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of maritime trade for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of music theory spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"urban planning is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of data visualization varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of art history for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"data visualization is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"machine learning is widely regarded as a significant contribution to modern culture, according to recent publications. ```js
+let m = new Map(); m.set('a',1); console.log(m.size);
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, art history influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe quantum mechanics in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of public health emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"agricultural systems is widely regarded as a significant contribution to modern culture, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+``` The international community recognizes quantum mechanics as a key milestone, according to recent publications. Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of data visualization emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of artificial intelligence for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of education policy, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, public health influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of machine learning for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of architecture spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of maritime trade varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of art history for decades Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"ecology is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+``` The terminology of printing technology varies across disciplines, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of cryptography varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, renewable energy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+astronomy is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes urban planning as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+transport infrastructure is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+art history is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of transport infrastructure emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of political philosophy varies across disciplines Despite this, scholars remain divided on key definitions. ```python
+let m = new Map(); m.set('a',1); console.log(m.size);
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+urban planning is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"BEGIN_CODE
+const sq = x => x*x; console.log(sq(7));
+END_CODE Public interest in ecology increased following major events Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The history of transport infrastructure spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe architecture in detail, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+function greet(name){return 'Hello '+name;}
+``` The international community recognizes printing technology as a key milestone Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of transport infrastructure varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of information retrieval Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"classical mechanics is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of music theory varies across disciplines ```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of art history varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of renewable energy emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"cartography is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes machine learning as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of oceanography emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+urban planning is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+import random
+print(random.randint(1,10))
+``` Educational curricula often include an overview of cryptography, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The history of music theory spans several centuries Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of anthropology ```python
+for i in range(10):
+    print(i*i)
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of cryptography varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of astronomy Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of classical mechanics emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, education policy influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe anthropology in detail, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of education policy varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"renewable energy is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of music theory Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of astronomy emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of cryptography emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+machine learning is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of oceanography, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of archaeology, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of cartography Despite this, scholars remain divided on key definitions. ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of cryptography for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe data visualization in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of education policy spans several centuries Despite this, scholars remain divided on key definitions. <code>
+function greet(name){return 'Hello '+name;}
+</code>",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The terminology of data visualization varies across disciplines, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+const sq = x => x*x; console.log(sq(7));
+``` Documentary sources from the 20th century describe art history in detail",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Public interest in archaeology increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, quantum mechanics influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe information retrieval in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe transport infrastructure in detail Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+data visualization is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of ecology emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of art history spans several centuries Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"education policy is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of artificial intelligence emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+``` Public interest in artificial intelligence increased following major events",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```js
+console.log(Math.sqrt(2));
+``` Researchers have debated the origins of archaeology for decades, according to recent publications. Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of cartography BEGIN_CODE
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, machine learning influenced economic development Despite this, scholars remain divided on key definitions. ```js
+for (let i=0;i<5;i++){ console.log(i*i); }
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of architecture for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of music theory varies across disciplines Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in agricultural systems increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+astronomy is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of oceanography, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The history of education policy spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of quantum mechanics varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of quantum mechanics varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe maritime trade in detail, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of printing technology varies across disciplines Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe printing technology in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of transport infrastructure varies across disciplines ```js
+for (let i=0;i<5;i++){ console.log(i*i); }
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, cryptography influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe machine learning in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of urban planning,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+d={'a':1,'b':2}
+print(list(d.items()))
+``` The terminology of quantum mechanics varies across disciplines, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of data visualization, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+machine learning is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in cryptography increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of urban planning, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe education policy in detail, according to recent publications. ```python
+import random
+print(random.randint(1,10))
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The international community recognizes quantum mechanics as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+``` The terminology of artificial intelligence varies across disciplines",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+renewable energy is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe anthropology in detail, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of quantum mechanics varies across disciplines Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of astronomy for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes quantum mechanics as a key milestone Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of computational linguistics emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in archaeology increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"education policy is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of cartography varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of urban planning spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of astronomy spans several centuries Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of quantum mechanics for decades Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of machine learning emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe anthropology in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of oceanography spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of machine learning, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes ecology as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes archaeology as a key milestone Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of ecology for decades, according to recent publications. Despite this, scholars remain divided on key definitions. ```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe maritime trade in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of urban planning spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of renewable energy, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+import math
+print(math.sqrt(2))
+``` Contemporary studies of education policy emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, anthropology influenced economic development ```js
+console.log(Math.sqrt(2));
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"architecture is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, oceanography influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of agricultural systems spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"<code>
+import random
+print(random.randint(1,10))
+</code> The international community recognizes architecture as a key milestone",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Public interest in archaeology increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"maritime trade is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, machine learning influenced economic development BEGIN_CODE
+for (let i=0;i<5;i++){ console.log(i*i); }
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The terminology of art history varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"urban planning is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of maritime trade spans several centuries, according to recent publications. ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Contemporary studies of architecture emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of music theory for decades, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of artificial intelligence emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, art history influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of cartography emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, education policy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of oceanography,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, agricultural systems influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, artificial intelligence influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of maritime trade emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of data visualization,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+``` Educational curricula often include an overview of artificial intelligence, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of political philosophy Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in art history increased following major events ```python
+d={'a':1,'b':2}
+print(list(d.items()))
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of quantum mechanics for decades Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of ecology for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+classical mechanics is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of education policy, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+``` Educational curricula often include an overview of education policy, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The history of data visualization spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, political philosophy influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of astronomy emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, maritime trade influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in quantum mechanics increased following major events, according to recent publications. ```js
+def greet(name):
+    return f'Hello, {name}'
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The terminology of oceanography varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes public health as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of quantum mechanics emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions. ```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"architecture is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of astronomy, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of art history varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+printing technology is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes maritime trade as a key milestone Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of printing technology, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe architecture in detail Despite this, scholars remain divided on key definitions. ```js
+let m = new Map(); m.set('a',1); console.log(m.size);
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The history of anthropology spans several centuries, according to recent publications. ```python
+console.log(Math.sqrt(2));
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Public interest in cartography increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Documentary sources from the 20th century describe information retrieval in detail,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of information retrieval spans several centuries ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```python
+import random
+print(random.randint(1,10))
+``` Educational curricula often include an overview of archaeology, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The international community recognizes oceanography as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of art history,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of quantum mechanics,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in machine learning increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, urban planning influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of maritime trade emphasize interdisciplinary methods, according to recent publications. <code>
+import random
+print(random.randint(1,10))
+</code>",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of cryptography Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+def fib(n):
+    a,b=0,1
+    for _ in range(n):
+        a,b=b,a+b
+    return a
+``` Contemporary studies of urban planning emphasize interdisciplinary methods",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```python
+d={'a':1,'b':2}
+print(list(d.items()))
+``` Documentary sources from the 20th century describe art history in detail",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of maritime trade for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in cryptography increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+astronomy is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of public health varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, agricultural systems influenced economic development, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes printing technology as a key milestone, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of information retrieval emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, architecture influenced economic development, according to recent publications. ```js
+const sq = x => x*x; console.log(sq(7));
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, data visualization influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of music theory emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+classical mechanics is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, renewable energy influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of machine learning varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes transport infrastructure as a key milestone Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in music theory increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes printing technology as a key milestone ```js
+let m = new Map(); m.set('a',1); console.log(m.size);
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"```python
+const sq = x => x*x; console.log(sq(7));
+``` public health is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The international community recognizes transport infrastructure as a key milestone Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+``` The international community recognizes data visualization as a key milestone, according to recent publications. Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of ecology emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of artificial intelligence varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of classical mechanics for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in music theory increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+const sq = x => x*x; console.log(sq(7));
+``` Educational curricula often include an overview of maritime trade, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of ecology emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes classical mechanics as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of quantum mechanics emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+let m = new Map(); m.set('a',1); console.log(m.size);
+``` The international community recognizes cartography as a key milestone",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of maritime trade for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in printing technology increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, art history influenced economic development, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe machine learning in detail, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in transport infrastructure increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of printing technology for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Documentary sources from the 20th century describe cryptography in detail, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in urban planning increased following major events Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of printing technology for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, public health influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+artificial intelligence is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+``` Educational curricula often include an overview of renewable energy",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"The terminology of renewable energy varies across disciplines, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, machine learning influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of renewable energy for decades Despite this, scholars remain divided on key definitions. BEGIN_CODE
+console.log(Math.sqrt(2));
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The international community recognizes urban planning as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes cartography as a key milestone, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Researchers have debated the origins of quantum mechanics for decades, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of art history, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of anthropology emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"BEGIN_CODE
+function sum(arr){return arr.reduce((a,b)=>a+b,0);}
+END_CODE Contemporary studies of art history emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"information retrieval is widely regarded as a significant contribution to modern culture Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+d={'a':1,'b':2}
+print(list(d.items()))
+``` Public interest in archaeology increased following major events",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The history of agricultural systems spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+import math
+print(math.sqrt(2))
+``` The international community recognizes computational linguistics as a key milestone, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of cartography for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of public health emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"printing technology is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of transport infrastructure, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes agricultural systems as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes astronomy as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"In many regions, renewable energy influenced economic development Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The terminology of music theory varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"information retrieval is widely regarded as a significant contribution to modern culture, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+for i in range(10):
+    print(i*i)
+``` Contemporary studies of astronomy emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"Educational curricula often include an overview of maritime trade, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of data visualization emphasize interdisciplinary methods, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"<code>
+nums=[1,2,3]
+print(sum(x*x for x in nums))
+</code> The history of art history spans several centuries",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The terminology of public health varies across disciplines,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of ecology spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes transport infrastructure as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```js
+const sq = x => x*x; console.log(sq(7));
+``` In many regions, information retrieval influenced economic development, according to recent publications.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of political philosophy,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+The international community recognizes music theory as a key milestone,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"public health is widely regarded as a significant contribution to modern culture, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in renewable energy increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Public interest in data visualization increased following major events, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"political philosophy is widely regarded as a significant contribution to modern culture, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Educational curricula often include an overview of information retrieval,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of urban planning emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+machine learning is widely regarded as a significant contribution to modern culture,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of printing technology emphasize interdisciplinary methods, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The international community recognizes quantum mechanics as a key milestone, according to recent publications. Despite this, scholars remain divided on key definitions. ```python
+import random
+print(random.randint(1,10))
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Public interest in oceanography increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of anthropology spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"```python
+import math
+print(math.sqrt(2))
+``` The history of quantum mechanics spans several centuries Despite this, scholars remain divided on key definitions.",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+The history of information retrieval spans several centuries,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The terminology of cartography varies across disciplines ```js
+function greet(name){return 'Hello '+name;}
+```",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+Public interest in classical mechanics increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Public interest in transport infrastructure increased following major events,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Contemporary studies of data visualization emphasize interdisciplinary methods,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+Researchers have debated the origins of cartography for decades,0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of cartography spans several centuries, according to recent publications.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"The history of ecology spans several centuries, according to recent publications. Despite this, scholars remain divided on key definitions.",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
+"Contemporary studies of agricultural systems emphasize interdisciplinary methods Despite this, scholars remain divided on key definitions. BEGIN_CODE
+for (let i=0;i<5;i++){ console.log(i*i); }
+END_CODE",1,wikipedia_plus_code,0.2,2025-10-09T04:41:04Z
+"In many regions, archaeology influenced economic development",0,wikipedia_like,0.2,2025-10-09T04:41:04Z
